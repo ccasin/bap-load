@@ -29,7 +29,7 @@ invocation prints correct names:
     $ bap --pass=shownames --shownames-prog1=foo1.bpj foo1
 
 
-#Weird output
+# Weird output
 
     Saved project symbols:
         __libc_csu_fini  [0x4006F0]
